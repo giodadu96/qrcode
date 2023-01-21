@@ -1,2 +1,0 @@
-# qrcode
-Created with CodeSandbox
